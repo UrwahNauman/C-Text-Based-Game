@@ -1,0 +1,25 @@
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\bin\Debug\net8.0\appsettings.json
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\bin\Debug\net8.0\Text Based Game.exe
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\bin\Debug\net8.0\Text Based Game.deps.json
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\bin\Debug\net8.0\Text Based Game.runtimeconfig.json
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\bin\Debug\net8.0\Text Based Game.dll
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\bin\Debug\net8.0\Text Based Game.pdb
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\Text Based Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\Text Based Game.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\Text Based Game.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\Text Based Game.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\Text Based Game.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\staticwebassets\msbuild.Text Based Game.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\staticwebassets\msbuild.build.Text Based Game.props
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Text Based Game.props
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Text Based Game.props
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\scopedcss\bundle\Text Based Game.styles.css
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\Text Based Game.dll
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\refint\Text Based Game.dll
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\Text Based Game.pdb
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\Text Based Game.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C# Text Based Game\Text Based Game\obj\Debug\net8.0\ref\Text Based Game.dll
